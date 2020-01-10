@@ -1,0 +1,30 @@
+{
+  "name": "krishna",
+  "version": "1.0.0",
+  "description": "Backend server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhardwajaditya113/krishna.git"
+  },
+  "keywords": [
+    "node",
+    "mongo",
+    "api",
+    "controllers",
+    "routes",
+    "models"
+  ],
+  "author": "Aditya Bhardwaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhardwajaditya113/krishna/issues"
+  },
+  "homepage": "https://github.com/bhardwajaditya113/krishna#readme",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
